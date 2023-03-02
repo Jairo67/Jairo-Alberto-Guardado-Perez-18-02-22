@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Laboratorio1_Jairo_Alberto_Guaradado_Perez/1.0.0": {
+        "runtime": {
+          "Laboratorio1_Jairo_Alberto_Guaradado_Perez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Laboratorio1_Jairo_Alberto_Guaradado_Perez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
