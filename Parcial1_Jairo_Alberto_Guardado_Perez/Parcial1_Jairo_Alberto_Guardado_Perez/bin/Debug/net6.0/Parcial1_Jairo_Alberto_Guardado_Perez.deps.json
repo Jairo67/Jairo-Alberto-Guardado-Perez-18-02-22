@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parcial1_Jairo_Alberto_Guardado_Perez/1.0.0": {
+        "runtime": {
+          "Parcial1_Jairo_Alberto_Guardado_Perez.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parcial1_Jairo_Alberto_Guardado_Perez/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
